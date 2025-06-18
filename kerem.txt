@@ -1,0 +1,5 @@
+Id: 8
+Name: kerem
+Phone: 222222222
+Salary: 44444.0
+Position: Warehouseman
